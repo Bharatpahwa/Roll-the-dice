@@ -120,4 +120,17 @@ button {
   .main {
     transform: scale(0.7);
   }
+  
+ .new-game {
+  top: 17vh;
+}
+  
+.roll-dice {
+  top: 21.3rem;
+}
+  
+.hold {
+  top: 24.1rem;
+}
+  
 }
