@@ -118,6 +118,6 @@ button {
 
 @media screen and (max-width: 500px) {
   .main {
-    transform: scale(0.5);
+    transform: scale(0.7);
   }
 }
